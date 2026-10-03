@@ -3,8 +3,8 @@
 | Lecture | Topic / Milestone | Status |
 | :--- | :--- | :--- |
 | **01** | Introduction to Data Science & Orientation | ✅ Completed |
-| **02** | Manipulating Data Using NumPy | ⚪ Upcoming |
-| **03** | Cleaning Data Using Pandas | ⚪ Upcoming |
+| **02** | Manipulating Data Using NumPy | ✅ Completed |
+| **03** | Cleaning Data Using Pandas | ✅ Completed |
 | **04** | Visualizing Data Using Matplotlib | ⚪ Upcoming |
 | **05** | Supervised Learning | ⚪ Upcoming |
 | **06** | Model Evaluation | ⚪ Upcoming |
